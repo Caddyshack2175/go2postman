@@ -100,6 +100,7 @@ The tool will:
 ### Burp Suite XML Files
 
 - XML files exported from Burp Suite's Repeater or Proxy
+  ![Burp "save item" from repeater page](burp_save_item.png)
 - Files should have the `.xml` extension
 - The tool supports base64-encoded requests in the Burp XML format
 - Example:
