@@ -1,13 +1,13 @@
 /*
-	The following project is a proof of concept:
-	Project Title: go2postman
-	Goal or Aim:
-	* Take cURL commands in a single file and generate a postman file.
-	* Take multiple burp repeater "saved item" files saved in a folder and generate a postman file.
-	ToDo:
-	- 
-	written by Caddyshack2175
-		<caddyshack2175@github.com>
+The following project is a proof of concept:
+Project Title: go2postman
+Goal or Aim:
+* Take cURL commands in a single file and generate a postman file.
+* Take multiple burp repeater "saved item" files saved in a folder and generate a postman file.
+ToDo:
+- 
+written by Caddyshack2175
+<caddyshack2175@github.com>
 */
 
 package main
